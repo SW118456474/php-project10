@@ -6,12 +6,30 @@ and open the template in the editor.
 -->
 <html>
     <head>
+        <style>
+            body {
+  background-color: lightgrey;
+}
+</style>
+
+        
         <meta charset="UTF-8">
-        <title></title>
+        <title>Index</title>
+        <link rel="stylesheet" type="text/css" href="index.css">
+    <Center>   <h1>Main Menu</h1></center>
     </head>
     <body>
-        <?php
-          echo'Hello World';
-        ?>
+        <br>
+    <center>   <h2>   <a href="FinishedCV.html">CV</a></h2>
+        </br>
+        <br>
+        <center><h2>   <a href="tiltedpage_scroll_demo.html">Interests</a></h2></center>
+        </br>
+        <br>
+        <center><h2>   <a href="Consulting.html">Consulting Services</a></h2></center>
+        </br>
+        <center><h2>   <a href="Ebus1.php">Calculator</a></h2></center>
+        </br>
+    
     </body>
 </html>
